@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86836133748",
+    "project_id": "snp-shop",
+    "storage_bucket": "snp-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86836133748:android:e56004bf070088c4d0b621",
+        "android_client_info": {
+          "package_name": "com.example.snp_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86836133748-9c1kj2i7ficpijohok4cjhjl73selnih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-VJybjnOhvr2ngv1PCoPQ-ZcaylEOHNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86836133748-9c1kj2i7ficpijohok4cjhjl73selnih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
